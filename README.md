@@ -53,28 +53,6 @@ The Arduino Nano acts as the control center. The **transmitter** side (joystick)
 
 The power system uses a **12V, 2A supply** regulated down to 5V for Arduino and sensor logic, ensuring reliability and safety.
 
----
-
-## 📁 Folder Structure
-
-Electronically-Propelled-Military-Tank/
-├── Arduino_Code/
-│   ├── Transmitter_control.ino      # Code for joystick-side Arduino
-│   └── Receiver_Control.ino         # Code for tank-side Arduino
-│
-├── App_Files/
-│   └── tank_control.aia             # (Optional) MIT App Inventor file
-│
-├── Project_Report/
-│   └── FINAL_BLACK_BOOK_2024-2025.pdf   # Your black book report
-│
-├── Project_Images/
-│   ├── hardware_setup.jpg
-│   ├── joystick_module.jpg
-│   └── screenshot_app_ui.png
-│           
-└──  README.md    # Main project overview   
-
 
 ---
 
