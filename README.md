@@ -1,10 +1,10 @@
-# 🚀 Electronically Propelled Military Tank
+# Electronically Propelled Military Tank
 
 A mobile robotic tank prototype designed for military simulations, surveillance, and remote reconnaissance. This Arduino-based UGV (Unmanned Ground Vehicle) features wireless manual control via a joystick and advanced turret control, making it a robust, flexible, and scalable solution for real-world tactical missions.
 
 ---
 
-## 📘 Abstract
+## Abstract
 
 This project demonstrates the development of an electronically propelled robotic tank using an **Arduino Nano**, capable of performing critical tasks such as **terrain navigation**, **turret rotation**, and **remote operation** via joystick or mobile app.
 
@@ -18,7 +18,7 @@ The chassis is built using **steel sheets**, **aluminum brackets**, and **chain-
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. **Robust UGV Design** for rugged terrains with a durable steel and aluminum chassis.
 2. **Wireless Control System** using Arduino Nano and analog joystick.
@@ -29,7 +29,7 @@ The chassis is built using **steel sheets**, **aluminum brackets**, and **chain-
 
 ---
 
-## ⚙️ Hardware & Components
+## Hardware & Components
 
 - Arduino Nano (x2)
 - Gear Motors (for propulsion)
@@ -43,7 +43,7 @@ The chassis is built using **steel sheets**, **aluminum brackets**, and **chain-
 
 ---
 
-## 🛠️ Working Principle
+## Working Principle
 
 The Arduino Nano acts as the control center. The **transmitter** side (joystick) sends analog values wirelessly, which the **receiver** Arduino interprets to:
 - Drive the motors (forward/reverse/stop)
@@ -56,7 +56,7 @@ The power system uses a **12V, 2A supply** regulated down to 5V for Arduino and 
 
 ---
 
-## 🖥️ How to Run
+## How to Run
 
 1. Upload `Transmitter_control.ino` to the **joystick-side Arduino Nano**
 2. Upload `Receiver_Control.ino` to the **tank-side Arduino Nano**
@@ -68,7 +68,7 @@ The power system uses a **12V, 2A supply** regulated down to 5V for Arduino and 
 
 ---
 
-## 🧪 Future Enhancements
+## Future Enhancements
 
 - Mobile app control via **MIT App Inventor**
 - Add **metal detector**, **camera**, and **GPS**
@@ -78,13 +78,13 @@ The power system uses a **12V, 2A supply** regulated down to 5V for Arduino and 
 
 ---
 
-## 📄 Project Report
+## Project Report
 
 📄 [FINAL_BLACK_BOOK_2024-2025.pdf](FINAL_BLACK_BOOK_2024-2025.pdf)
 
 ---
 
-## 👩‍🎓 Author
+## Author
 
 **Samriddhi Kurdekar**  
  
